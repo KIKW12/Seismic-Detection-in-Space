@@ -1,1 +1,1 @@
-# Seasmic-Detection-in-Space
+# Seismic-Detection-in-Space
