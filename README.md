@@ -1,11 +1,11 @@
 # 🌌 Martian Seismic Detection System
 ### AI-Powered Earthquake Detection for Mars Exploration | NASA Space Apps Hackathon
 
-[![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Machine Learning](https://img.shields.io/badge/ML-K--Means%20Clustering-green.svg)]()
-[![NASA](https://img.shields.io/badge/NASA-Space%20Apps%20Hackathon-red.svg)](https://www.spaceappschallenge.org/)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KIKW12/Seismic-Detection-in-Space)
+[![Python](https://img.shields.io/badge/Python-v3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Machine Learning](https://img.shields.io/badge/ML-K--Means%20Clustering-00D2FF?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![NASA](https://img.shields.io/badge/NASA-Space%20Apps%20Hackathon-E03C31?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/)
+[![Status](https://img.shields.io/badge/Status-Active-28A745?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-9B59B6?style=for-the-badge&logo=wikipedia&logoColor=white)](https://deepwiki.com/KIKW12/Seismic-Detection-in-Space)
 
 > **An intelligent seismic event detection system designed to optimize data transmission from Mars to Earth, reducing energy consumption in interplanetary missions while maximizing scientific discovery.**
 ---
