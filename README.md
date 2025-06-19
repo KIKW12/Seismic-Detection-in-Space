@@ -5,6 +5,7 @@
 [![Machine Learning](https://img.shields.io/badge/ML-K--Means%20Clustering-green.svg)]()
 [![NASA](https://img.shields.io/badge/NASA-Space%20Apps%20Hackathon-red.svg)](https://www.spaceappschallenge.org/)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KIKW12/Seismic-Detection-in-Space)
 
 > **An intelligent seismic event detection system designed to optimize data transmission from Mars to Earth, reducing energy consumption in interplanetary missions while maximizing scientific discovery.**
 ---
@@ -12,8 +13,6 @@
 ## 🎯 **Project Overview**
 
 This project addresses a critical challenge in Mars exploration: **how to efficiently identify and transmit only relevant seismic data from Mars to Earth**. Given the massive energy costs and transmission delays in interplanetary communication, our system uses advanced machine learning algorithms to automatically detect marsquakes, ensuring only scientifically valuable data is transmitted.
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KIKW12/Seismic-Detection-in-Space)
 
 ### 🏆 **Key Achievements**
 - **95% reduction** in unnecessary data transmission
